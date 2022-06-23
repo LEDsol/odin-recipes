@@ -1,1 +1,1 @@
-# odin-recipes
+This is building a basic recipe website and learning some HTML eg. <ol> & <ul>
